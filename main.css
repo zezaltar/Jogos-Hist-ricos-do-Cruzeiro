@@ -92,13 +92,17 @@ p{
 }
 .social-links img{/*Mudando o tamanho das imagens das redes sociais*/
     height: 24px;
+  
 }
 .social-links li{
     display: inline;
     margin-right: 8px;
+    justify-content: center;
 }
 .social-links li a{
     text-decoration: none;/*Tirando a sujeitinha das redes sociais*/
+    justify-self: center;
+    in
 }
 #contact .container{/*Mudando o formato do que esta dentro da seção contatos*/
     display: block;
